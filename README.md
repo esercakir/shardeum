@@ -1,4 +1,4 @@
-Minimum Hardware Requirements
+Minimum Hardware Requirements 
 250 GB SSD storage
 Quad core CPU less than 10 years old if self hosting
 Dual core CPU works if hosted with newer Xeons / EPYC
